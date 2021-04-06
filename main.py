@@ -49,15 +49,15 @@ def respond(msgs, chatid):
             keyboard.type("w")
         if str(msg) == "!move left":
             keyboard.press("a")
-            time.sleep(2)
+            time.sleep(1)
             keyboard.release("a")
         if str(msg) == "!move right":
             keyboard.press("d")
-            time.sleep(2)
+            time.sleep(1)
             keyboard.release("d")
         if str(msg) == "!move down":
             keyboard.press("s")
-            time.sleep(2)
+            time.sleep(1)
             keyboard.release("s")
         if str(msg) == "!spam skills":
             keyboard.type("./'")
