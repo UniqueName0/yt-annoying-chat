@@ -1,0 +1,1 @@
+this allows youtube chat to spawn things in pvp
