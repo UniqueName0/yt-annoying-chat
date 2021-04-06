@@ -1,1 +1,1 @@
-this allows youtube chat to spawn things in pvp
+this allows youtube chat to mess with me during games
